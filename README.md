@@ -112,3 +112,4 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+The 8 files have been added to the repository as requested
